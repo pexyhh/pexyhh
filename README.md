@@ -21,9 +21,7 @@ Hi! I’m Ayman, a web development student passionate about learning modern tech
 
 ### Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=pexyhh&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=pexyhh&theme=gruvbox&border_radius=4.5) -->
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=pexyhh&show_icons=true&theme=jolly)
 
 #
 
